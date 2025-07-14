@@ -26,7 +26,7 @@ I'm a detail-oriented and creative professional with an MBA in Information Techn
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🔗 [My Resume](📄 [Download My Resume (PDF)](https://github.com/nomanshaikh1998/nomanshaikh1998/raw/main/Noman_Shaikh_Resume.pdf)
+| 🔗 [My Resume](📄 [Download My Resume (PDF)](https://github.com/nomanshaikh1998/nomanshaikh1998/raw/main/resume.pdf)
 ) | Clean and modern resume for HR & remote roles | MS Word, Canva |
 | 🧠 Prompt Library | A curated list of effective prompts for ChatGPT & AI tools | Markdown, Prompt Engineering |
 | 📊 Social Media Strategy Template | Template for planning Instagram/LinkedIn content calendar | Google Sheets, Canva |
